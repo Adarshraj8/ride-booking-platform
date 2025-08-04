@@ -14,5 +14,6 @@ Ride Booking Platform – Microservice Architecture Java, Spring Boot, Kafka, Eu
 
 Additional Project
 Room Rental Service – A platform for listing and booking rental rooms. Built with Java, Spring Boot, and MySQL.
+| Service         | Description                         | Repo Link |
 | Room-RentalService| A platform for listing and booking rental rooms| [Link](https://github.com/Adarshraj8/room-rentalService) |
 | room-rentalFrontend| A platform for listing and booking rental rooms| [Link](https://github.com/Adarshraj8/room-rentalFrontend) |
