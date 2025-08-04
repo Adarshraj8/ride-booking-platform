@@ -4,9 +4,11 @@ Ride Booking Platform – Microservice Architecture Java, Spring Boot, Kafka, Eu
 
 | Service         | Description                         | Repo Link |
 |----------------|-------------------------------------|-----------|
-| AuthService     | JWT-based authentication            | [Link](https://github.com/yourusername/auth-service) |
-| BookingService  | Handles booking flow                | [Link](https://github.com/yourusername/booking-service) |
-| LocationService | Returns nearby drivers              | [Link](https://github.com/yourusername/location-service) |
-| SocketService   | WebSocket server for live updates   | [Link](https://github.com/yourusername/socket-service) |
-| EntityService   | Shared model/data library           | [Link](https://github.com/yourusername/entity-service) |
-| EurekaService   | Service discovery via Eureka        | [Link](https://github.com/yourusername/eureka-server) |
+| AuthService     | JWT-based authentication            | [Link](https://github.com/Adarshraj8/AuthService) |
+| BookingService  | Handles booking flow                | [Link](https://github.com/Adarshraj8/BookingService) |
+| LocationService | Returns nearby drivers              | [Link](https://github.com/Adarshraj8/LocationService) |
+| ServiceDiscovery  |Acts as a central registry for all microservices| [Link](https://github.com/Adarshraj8/ServiceDiscovery) |
+| EntityService   | Shared model/data library           | [Link](https://github.com/Adarshraj8/EntityService) |
+| SocketServer   | WebSocket server for live updates     | [Link](https://github.com/Adarshraj8/SocketServer) |
+| ReviewService| managing ratings and reviews between passengers and drivers| [Link](https://github.com/Adarshraj8/ReviewService) |
+
