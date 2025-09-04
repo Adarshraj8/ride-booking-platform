@@ -11,6 +11,7 @@ Ride Booking Platform – Microservice Architecture Java, Spring Boot, Kafka, Eu
 | EntityService   | Shared model/data library           | [Link](https://github.com/Adarshraj8/EntityService) |
 | SocketServer   | WebSocket server for live updates     | [Link](https://github.com/Adarshraj8/SocketServer) |
 | ReviewService| managing ratings and reviews between passengers and drivers| [Link](https://github.com/Adarshraj8/ReviewService) |
+|SocketWebClient|this file demonstrates real-time driver communication and ride request handling in a ride-hailing system using WebSockets, SockJS, and STOMP | [Link](https://github.com/Adarshraj8/SocketWebClient) |
 
 Additional Project
 Room Rental Service – A platform for listing and booking rental rooms. Built with Java, Spring Boot, and MySQL.
