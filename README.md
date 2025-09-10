@@ -11,6 +11,8 @@ Ride Booking Platform – Microservice Architecture Java, Spring Boot, Kafka, Eu
 | EntityService   | Shared model/data library           | [Link](https://github.com/Adarshraj8/EntityService) |
 | SocketServer   | WebSocket server for live updates     | [Link](https://github.com/Adarshraj8/SocketServer) |
 | ReviewService| managing ratings and reviews between passengers and drivers| [Link](https://github.com/Adarshraj8/ReviewService) |
+| UberNotificationService| The Uber Notification Service is responsible for handling all passenger notifications| [Link](https://github.com/Adarshraj8/UberNotificationService) |
+|Uber-Gateway_Service| The Uber Gateway Service is a Spring Cloud Gateway–based microservice that serves as the API Gateway for the Uber clone system| [Link](https://github.com/Adarshraj8/Uber-Gateway_Service) |
 |SocketWebClient|this file demonstrates real-time driver communication and ride request handling in a ride-hailing system using WebSockets, SockJS, and STOMP | [Link](https://github.com/Adarshraj8/SocketWebClient) |
 
 Additional Project
