@@ -23,7 +23,11 @@ Room Rental Service – A platform for listing and booking rental rooms. Built w
 | room-rentalFrontend| A platform for listing and booking rental rooms| [Link](https://github.com/Adarshraj8/room-rentalFrontend) |
 
 <p align="center">
-  <img src="622374018_122154161984719718_2216041031222928654_n.jpg" width="300">
+  <img src="622374018_122154161984719718_2216041031222928654_n.jpg" width="600">
+</p>
+
+<p align="center">
+  <img src="download(3).png" width="900">
 </p>
 
 
