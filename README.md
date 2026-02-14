@@ -27,7 +27,7 @@ Room Rental Service – A platform for listing and booking rental rooms. Built w
 </p>
 
 <p align="center">
-  <img src="download (3).png" width="900">
+  <img src="[download (3).png](https://www.eraser.io/ai/architecture-diagram-generator)">
 </p>
 
 
